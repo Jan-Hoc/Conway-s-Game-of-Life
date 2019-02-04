@@ -8,7 +8,7 @@ public class Game implements Runnable {
 	private int height;
 	private int scl;
 	
-	private int fps = 15;
+	private int fps = 10;
 	private boolean running = false;
 	private static Thread thread;
 	private BufferStrategy bs;
