@@ -35,7 +35,7 @@ public class Display implements KeyListener {
 		frame.setResizable(false);
 		frame.setLocationRelativeTo(null);
 		frame.setVisible(true);
-		frame.setLocation(0, 0);
+		frame.setLocation(-7, 0);
 		frame.addKeyListener(this);
 
 		canvas = new Canvas();

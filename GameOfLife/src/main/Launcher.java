@@ -5,7 +5,7 @@ import java.awt.Toolkit;
 public class Launcher {
 	private static int width;
 	private static int height;
-	private static int scl = 20;
+	private static int scl = 12;
 	
 	public static void main(String[] args) {
 		
